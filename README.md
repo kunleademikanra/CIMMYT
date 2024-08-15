@@ -1,2 +1,6 @@
 # CIMMYT
-Wheat Seed Model
+Wheat Seed Characterization Model
+lenght
+size
+color
+taxonomy
